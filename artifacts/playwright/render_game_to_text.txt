@@ -1,0 +1,1 @@
+{"mode":"gameover","timeMs":200,"turn":"black","selected":null,"legalTargets":[],"multiJumpActive":false,"score":{"red":80,"black":0},"redPieces":2,"blackPieces":0,"winner":"red","lastEvent":"gameover-red","forcedPiece":null,"board":["........","....r...","........","........","........","........","........","..r....."]}
